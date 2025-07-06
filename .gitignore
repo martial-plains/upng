@@ -4,3 +4,8 @@ glview
 *.sh
 *.png
 *.tga
+
+
+# Added by cargo
+
+/target
